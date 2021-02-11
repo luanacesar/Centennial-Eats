@@ -4,7 +4,7 @@
 
 Centennial Eats is a website application that connects the customer to centennial college restaurant.
 
-Problem description
+**Problem description**
 
 Currently, Culinary and Hospitality Education programs are active and presential courses which play crucial role in maintaining their own restaurants 
 located inside of their campus. These restaurants supported by students and professors from Culinary & hospitality programs. They are financially supported 
